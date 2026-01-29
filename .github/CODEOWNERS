@@ -1,0 +1,12 @@
+# CODEOWNERS - scv-empresarial
+# Propietarios globales (ambos miembros del equipo)
+* @FernandoMDFK @MOISE-25
+
+# Propietarios por área de responsabilidad
+/src/ @FernandoMDFK
+/docs/ @MOISE-25
+/tests/ @FernandoMDFK @MOISE-25
+
+# Archivos críticos requieren ambos reviewers
+CONTRIBUTING.md @FernandoMDFK @MOISE-25
+README.md @FernandoMDFK @MOISE-25
