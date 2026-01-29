@@ -1,7 +1,7 @@
 # Sistema de Control de Versiones Empresarial
 
 > Proyecto integrador del módulo MDW101
-
+"Documentación actualizada para la Fase 3 - Colaboración."
 ## Equipo de Desarrollo
 
 | Rol | Nombre | GitHub | Email |
