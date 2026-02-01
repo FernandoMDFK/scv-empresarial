@@ -16,3 +16,4 @@ Repositorio profesional que demuestra el dominio de técnicas avanzadas de Git y
 * Git 2.40+
 * GPG (firmas criptográficas)
 * GitHub Actions (CI/CD)
+//HOOKS: CONFIGURADO
